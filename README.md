@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how fdsafewfdseafdwGit and GitHub work. Adding a line for the purpose of example.
+This repository is for showing how fdsafewfdseafdwGit and GitHub work. Adding a line for the purpose of example, then more changes from myfeaturebranch
 
 ## Purpose
 
