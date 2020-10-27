@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how fdsafewfdseafdwGit and GitHub work
+This repository is for showing how fdsafewfdseafdwGit and GitHub work. Adding a line for the purpose of example.
 
 ## Purpose
 
